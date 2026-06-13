@@ -18,14 +18,14 @@ This repository contains my security findings reported to public and government 
 | # | Vulnerability | Target | Status |
 |--|--------------|--------|--------|
 | 1 | Broken Link Hijacking | Korlantas Polri SIM | Fixed |
-| 2 | Broken Link Hijacking | Diskominfo Kampar | Fixed |
+| 2 | Broken Link Hijacking | Diskominfo Salatiga | Fixed |
 
 ---
 
 ## 📂 Reports
 
 - 📄 [Korlantas BLH Report](./reports/korlantas-blh.md)
-- 📄 [Kampar BLH Report](./reports/kampar-blh.md)
+- 📄 [Kampar BLH Report](./reports/diskominfo-salatiga-blh.md)
 
 ---
 
