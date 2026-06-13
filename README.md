@@ -1,6 +1,6 @@
 # 🛡️ Bug Bounty & Security Research Portfolio
 
-Hi, I'm **H1rag1**, a security enthusiast focusing on web application vulnerabilities and responsible disclosure.
+Hi, I'm **Hiragi**, a security enthusiast focusing on web application vulnerabilities and responsible disclosure.
 
 This repository contains my security findings reported to public and government systems, documented for learning and transparency purposes.
 
