@@ -34,7 +34,7 @@ Scope: Government websites (Indonesia)
 ---
 
 ### 3. Diskominfo Kampar & Pemkab Kampar
-- **URL:** https://diskominfo.kamparkab.go.id/
+- **URL:** https://diskominfosandi.kamparkab.go.id/
 - **Vulnerability:** Broken Link Hijacking (BLH) – Instagram
 - **CWE:** CWE-610
 - **Severity:** Medium
